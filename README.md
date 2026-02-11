@@ -16,6 +16,7 @@ breve descripcion del proyecto
 -funcionalidad 2
 -funcionalidad 3
 - funcionalidad 4
+- Funcionalidad 5
 
 ---
 ## tecnologías utilizadas
