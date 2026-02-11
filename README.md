@@ -43,3 +43,10 @@ breve descripcion del proyecto
 pasos para instalar el proyecto localmente
 ``` bash
 git clone https://github.com/maicolnore10-ops/repo_2.git
+cd proyecto
+cd ..
+
+```
+---
+## video tutorial
+[![link al video tutorial](asset/imagen.png)](https://youtu.be/Ju39_ecG2Oc?list=RDJu39_ecG2Oc)
