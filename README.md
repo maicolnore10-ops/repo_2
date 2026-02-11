@@ -15,12 +15,21 @@ breve descripcion del proyecto
 -funcionalidad 1
 -funcionalidad 2
 -funcionalidad 3
+<<<<<<< HEAD
+=======
+- funcionalidad 4
+- Funcionalidad 5
+>>>>>>> e009f7d40139aebe5426fd10cc2ea7acda6cbca5
 
 ---
 ## tecnologías utilizadas
 -lenguaje / framework principal
 -bases de datos
 -librerias claves
+<<<<<<< HEAD
+=======
+- Internet
+>>>>>>> e009f7d40139aebe5426fd10cc2ea7acda6cbca5
 
 ---
 ## requerimientos
