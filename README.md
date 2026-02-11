@@ -36,6 +36,7 @@ breve descripcion del proyecto
 -version minima del lenguaje
 -dependencias necesarias
 -software requerido
+- bot
 
 ---
 ## instalación
