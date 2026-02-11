@@ -1,7 +1,7 @@
 # proyecto d uso de herramientas GIT con contribuyentes
 
 breve descripcion del proyecto
-
+maicol
 ---
 ##tabla de contenido
 - [caracteristicas del proyecto](#caracteristicas-del-proyecto)
@@ -36,7 +36,7 @@ pasos para instalar el proyecto localmente
 git clone https://github.com/maicolnore10-ops/repo_2.git
 
 ```
-
+otros pasos
 pasos para instalar dependencias
 ``` bash
 npm install
