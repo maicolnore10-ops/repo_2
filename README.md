@@ -43,3 +43,9 @@ npm install
 ```
 esta es mi modificacion de la rama main
 ```
+
+git checkout -b main
+git add .
+git commit -m "modificacion de la rama main"
+git push origin main
+```
