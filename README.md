@@ -15,12 +15,14 @@ breve descripcion del proyecto
 -funcionalidad 1
 -funcionalidad 2
 -funcionalidad 3
+- funcionalidad 4
 
 ---
 ## tecnologías utilizadas
 -lenguaje / framework principal
 -bases de datos
 -librerias claves
+- Internet
 
 ---
 ## requerimientos
