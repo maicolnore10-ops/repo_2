@@ -34,3 +34,12 @@ breve descripcion del proyecto
 pasos para instalar el proyecto localmente
 ``` bash
 git clone https://github.com/maicolnore10-ops/repo_2.git
+
+```
+
+pasos para instalar dependencias
+``` bash
+npm install
+```
+esta es mi modificacion de la rama main
+```
